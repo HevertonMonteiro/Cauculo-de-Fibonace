@@ -1,0 +1,11 @@
+Ligaria o interruptor 1.
+Depois Ligaria o interruptor 2. 
+Esperaria alguns minutos e desligaria apenas o interruptor 2
+Iria até a primeira sala das Lâmpadas.
+Se a lâmpada da sala que fui está acesa, então é controlada pelo interruptor 1.
+Se não estiver acesa ou quente, se refere ao 3.
+Voltava e desligaria o interrupitor 1 e ligaria apenas o 2.
+Iria em outra sala.
+Se a lampada estiver ligada, refere-se ao interrupitor 2.
+Se não estiver ligada, refere-se ao interrupitor 3.
+Sendo assim decubriria quem seria a proxima!

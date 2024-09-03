@@ -1,0 +1,23 @@
+Função Descobrir Logica
+  
+    A- Verifica se é uma progressão aritmética
+    Segue uma sequência de números ímpares consecutivos.
+    proximo numero = 9
+  
+    B- Verifica se é uma progressão geométrica
+    Segue uma sequência de potências de 2
+    proximo numero = 128
+  
+    C- Verifica se é a sequência de Fibonacci
+    Segue uma sequência de quadrados perfeitos (0², 1², 2², 3², ...).
+    proximo numero = 49
+
+    D- Verifica se são quadrados perfeitos
+    Segue uma sequência de quadrados de números pares (2², 4², 6², 8²).
+    proximo numero = 100
+  
+    E- Verifica se são quadrados de números pares
+    Sequência de Fibonacci (cada número é a soma dos dois anteriores).
+    proximo numero = 13
+    
+    F- não consegui compreender de que se tratava essa seguencia.

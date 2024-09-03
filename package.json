@@ -5,8 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "clear && node ./FIBONACE/index.js",
-    "play": "clear && node ./VERIFICAÇÃO-STRING-A/index.js",
-    "go": "clear && node ./OBSERVE/index.js",
+    "start1": "clear && node ./VERIFICAÇÃO-STRING-A/index.js",
+    "start2": "clear && node ./OBSERVE/index.js",
+    "start3": "clear && node ./DESCUBRA-LOGICA/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
